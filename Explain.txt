@@ -1,0 +1,6 @@
+api rest:an application programming interface connect two aplications 
+
+
+express: it a framework to create a apis 
+
+ node.js : it is a java complilation help running this type of app.
